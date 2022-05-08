@@ -1,2 +1,2 @@
-# web3-study
-web3 study
+
+## npx create-next-app@latest -e with-tailwindcss cmc-dome
